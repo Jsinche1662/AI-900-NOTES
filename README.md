@@ -1,6 +1,7 @@
 # 📘 Apuntes Microsoft AI-900
 
 > **Microsoft Certified: Azure AI Fundamentals**
+>
 > Estos apuntes fueron tomados mientras estudiaba para la certificación, los he organizado con ayuda de Gemini para poder compartirlos y apoyar a los que quieran obtenerla. 
 
 ---
